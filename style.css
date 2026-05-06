@@ -35,7 +35,7 @@ body {
 }
 
 .home {
-  background: url("/bg.png");
+  background: url("bg.png");
   padding: 40px 160px;
   width: 100%;
   padding-bottom: 230px;
@@ -46,7 +46,7 @@ body {
 }
 
 .blog {
-  background: url("/bg3.png");
+  background: url("bg3.png");
   padding: 40px 160px;
   width: 100%;
   padding-bottom: 230px;
@@ -58,7 +58,7 @@ body {
 
 
 .gallery, .kontak {
-  background: url("/bg2.png");
+  background: url("bg2.png");
   padding: 40px 160px;
   width: 100%;
   padding-bottom: 230px;
